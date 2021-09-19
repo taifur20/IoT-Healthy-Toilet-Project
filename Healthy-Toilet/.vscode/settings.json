@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "core2foraws.h": "c",
+        "esp_log.h": "c"
+    }
+}
